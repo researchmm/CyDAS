@@ -20,21 +20,21 @@
   <!-- <p>cell.</p> -->
 </div>
 
-#### Results on NAS-Bench-201 benchmark
+#### Results on NATS-Bench benchmark
 <div align="center">
-  <img src="demo/bench201.png" width="800px" />
+  <img src="demo/NATS_bench.png" width="800px" />
   <!-- <p>bench201.</p> -->
 </div>
 
 #### Results on CIFAR
 <div align="center">
-  <img src="demo/results1.png" width="800px" />
+  <img src="demo/cell_cifar.png" width="800px" />
   <!-- <p>results1.</p> -->
 </div>
 
 #### Results on ImageNet
 <div align="center">
-  <img src="demo/results2.png" width="800px" />
+  <img src="demo/cell_imagenet.png" width="800px" />
   <!-- <p>results1.</p> -->
 </div>
 
@@ -185,3 +185,25 @@ We have provided all the shell scripts and the corresponding default parameters,
     cd benchmark201
     bash run_search_cifar_1gpu.sh
     ```
+
+### Object Detection
+#### Results on COCO
+We provide training models and logs (DET-A and DET-B), which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1CkFp24bEDq0wUp504BQ68jn5Vs069qox?usp=sharing).
+<div align="center">
+  <img src="demo/coco.png" width="800px" />
+  <!-- <p>results1.</p> -->
+</div>
+
+### Semantic Segmentation
+We provide training models and logs (cityscapes and ade20k), which can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1CkFp24bEDq0wUp504BQ68jn5Vs069qox?usp=sharing).
+#### Results on Cityscapes
+<div align="center">
+  <img src="demo/city.png" width="400px" />
+  <!-- <p>results1.</p> -->
+</div>
+
+#### Results on ADE20K
+<div align="center">
+  <img src="demo/ade.png" width="400px" />
+  <!-- <p>results1.</p> -->
+</div>
