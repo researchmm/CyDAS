@@ -41,7 +41,7 @@ Our pretrained backbone params can be found in [GoogleDrive](https://drive.googl
 Installation
 * Clone this repo:
 ```bash
-cd CyDAS_detection
+cd CDARTS_detection
 ```
 * Install dependencies:
 ```bash

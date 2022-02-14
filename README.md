@@ -157,32 +157,32 @@ Model download links:
 #### CIFAR10
 | Top-1 Acc. %       | 97.60                                                                                              | 97.45                                                                                              | 97.52                                                                                              | 97.53                                                                                              | 97.54                                                                                              | 97.77                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Cell Download link | [Cell1](https://drive.google.com/file/d/1mlRQUo2DyiZvwfhVfkcjJRAaaxJLmkjs/view?usp=sharing) | [Cell2](https://drive.google.com/file/d/1W-2uvAQZVTuWEDHEhvb_FHv_US9Pl6tS/view?usp=sharing) | [Cell3](https://drive.google.com/file/d/12j6SwGAfE4_eKIBr38PSy9pyxMG_9avB/view?usp=sharing) | [Cell4](https://drive.google.com/file/d/1muuQLTxFX7oKAd8hjsxwOzRx1hGYsCjP/view?usp=sharing) | [Cell5](https://drive.google.com/file/d/1eBJjEldqfo3AsfPT5wemI46PdhtgQh5i/view?usp=sharing) | [Cell6](https://drive.google.com/file/d/1nZ1XNOAb325-UZN-rbs17fzLfjKrhd-S/view?usp=sharing) |
+| Cell Download link | [Cell-1](https://drive.google.com/file/d/1mlRQUo2DyiZvwfhVfkcjJRAaaxJLmkjs/view?usp=sharing) | [Cell-2](https://drive.google.com/file/d/1W-2uvAQZVTuWEDHEhvb_FHv_US9Pl6tS/view?usp=sharing) | [Cell-3](https://drive.google.com/file/d/12j6SwGAfE4_eKIBr38PSy9pyxMG_9avB/view?usp=sharing) | [Cell-4](https://drive.google.com/file/d/1muuQLTxFX7oKAd8hjsxwOzRx1hGYsCjP/view?usp=sharing) | [Cell-5](https://drive.google.com/file/d/1eBJjEldqfo3AsfPT5wemI46PdhtgQh5i/view?usp=sharing) | [Cell-6](https://drive.google.com/file/d/1nZ1XNOAb325-UZN-rbs17fzLfjKrhd-S/view?usp=sharing) |
 
 #### ImageNet
 | Top-1 Acc. %       | 75.90                                                                                              | 75.93                                                                                              | 76.40                                                                                              | 76.60                                                                                              | 76.44                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Cell Download link | [Cell1](https://drive.google.com/file/d/1VY8MyWaDbrWQdi4xyKEcaX88ndH_o9XP/view?usp=sharing) | [Cell2](https://drive.google.com/file/d/1nokqF1HaPrKbW0vkeN3mB9M5mHRI745U/view?usp=sharing) | [Cell3](https://drive.google.com/file/d/1Rk8JbHAUUG5pE4t3AU94yfIsPsE5GTJH/view?usp=sharing) | [Cell4](https://drive.google.com/file/d/1fgQk3o4svX8hoP__MK2qikokrDpn9rx7/view?usp=sharing) | [Cell5](https://drive.google.com/file/d/12_TG4F0cnHc9lmsRiKK7TiN5CsyncBkx/view?usp=sharing) |
+| Cell Download link | [Cell-1](https://drive.google.com/file/d/1VY8MyWaDbrWQdi4xyKEcaX88ndH_o9XP/view?usp=sharing) | [Cell-2](https://drive.google.com/file/d/1nokqF1HaPrKbW0vkeN3mB9M5mHRI745U/view?usp=sharing) | [Cell-3](https://drive.google.com/file/d/1Rk8JbHAUUG5pE4t3AU94yfIsPsE5GTJH/view?usp=sharing) | [Cell-4](https://drive.google.com/file/d/1fgQk3o4svX8hoP__MK2qikokrDpn9rx7/view?usp=sharing) | [Cell-5](https://drive.google.com/file/d/12_TG4F0cnHc9lmsRiKK7TiN5CsyncBkx/view?usp=sharing) |
 
 ### NATS-Bench
 | Model | CIFAR10 Validation | CIFAR10 Test | CIFAR100 Validation | CIFAR100 Test | ImageNet-16-120 Validation | ImageNet-16-120 Test | Download link |
 |-------|--------------------|--------------|---------------------|---------------|----------------------------|----------------------|---------------|
-| Cell1 | 91.50%             | 94.37%       | 73.31%              | 73.09%        | 45.59%                     | 46.33%               | [Cell,Log](https://drive.google.com/file/d/13CpMr1V-S0d8C2WbIHwSzApmdBInKn0U/view?usp=sharing)             |
-| Cell2 | 91.37%             | 94.09%       | 72.64%              | 72.57%        | 45.46%                     | 45.63%               | [Cell,Log](https://drive.google.com/file/d/1Gbnm61NbYmEkdW6YCBUWDA_sQGtm83vR/view?usp=sharing)             |
-| Cell3 | 90.51%             | 93.62%       | 70.43               | 70.10%        | 44.23%                     | 44.57%               | [Cell,Log](https://drive.google.com/file/d/1zq2Eg8IZt5MVXFnmKuuCDS5bei-ENlWw/view?usp=sharing)             |
+| Cell1 | 91.50%             | 94.37%       | 73.31%              | 73.09%        | 45.59%                     | 46.33%               | [Cell, Log](https://drive.google.com/file/d/13CpMr1V-S0d8C2WbIHwSzApmdBInKn0U/view?usp=sharing)             |
+| Cell2 | 91.37%             | 94.09%       | 72.64%              | 72.57%        | 45.46%                     | 45.63%               | [Cell, Log](https://drive.google.com/file/d/1Gbnm61NbYmEkdW6YCBUWDA_sQGtm83vR/view?usp=sharing)             |
+| Cell3 | 90.51%             | 93.62%       | 70.43               | 70.10%        | 44.23%                     | 44.57%               | [Cell, Log](https://drive.google.com/file/d/1zq2Eg8IZt5MVXFnmKuuCDS5bei-ENlWw/view?usp=sharing)             |
 
 ### Chain-structured Search Space
 
 Model | Params. | Flops | Top-1 Acc. % | Download link 
 --- |:---:|:---:|:---:|:---:
-CDARTS-a | 7.0M | 294M | 77.4 | [Model,Config,Log](https://drive.google.com/drive/folders/146h42gj9yNhmOoJX87hTeHw5PvOIyGPi?usp=sharing)
-CDARTS-b  | 6.4M | 394M | 78.2 | [Model,Config,Log](https://drive.google.com/drive/folders/1LUY9dfLIGSQicfoInHaffIepunujyuGe?usp=sharing)
+CDARTS-a | 7.0M | 294M | 77.4 | [Model, Config, Log](https://drive.google.com/drive/folders/146h42gj9yNhmOoJX87hTeHw5PvOIyGPi?usp=sharing)
+CDARTS-b  | 6.4M | 394M | 78.2 | [Model, Config, Log](https://drive.google.com/drive/folders/1LUY9dfLIGSQicfoInHaffIepunujyuGe?usp=sharing)
 
 ### Object Detection
 Backbone            | Input Size  | Params. | Flops | AP    | AP\_50 | AP\_75 | AP\_S | AP\_M | AP\_L | Download link
 ----------------------- | --------- | -------- | ----- | ----- | ------ | ------ | ----- | ----- | ----- | ---
-CDARTS-a | 1280x800 |  6.0G  | 7.0M  | 35.2 | 55.5 | 37.5  | 19.8 | 38.7 | 47.5 | [Model,Config,Log](https://drive.google.com/drive/folders/1xkV_ZJXhHPkDbL1Ogc3AQJvi9HC1Egyn?usp=sharing)
-CDARTS-b | 1280x800 |  8.1G  | 6.4M  | 36.2 | 56.7 | 38.3  | 20.9 | 39.8 | 48.5 | [Model,Config,Log](https://drive.google.com/drive/folders/1xkV_ZJXhHPkDbL1Ogc3AQJvi9HC1Egyn?usp=sharing)
+CDARTS-a | 1280x800 |  6.0G  | 7.0M  | 35.2 | 55.5 | 37.5  | 19.8 | 38.7 | 47.5 | [Model, Config, Log](https://drive.google.com/drive/folders/1xkV_ZJXhHPkDbL1Ogc3AQJvi9HC1Egyn?usp=sharing)
+CDARTS-b | 1280x800 |  8.1G  | 6.4M  | 36.2 | 56.7 | 38.3  | 20.9 | 39.8 | 48.5 | [Model, Config, Log](https://drive.google.com/drive/folders/1xkV_ZJXhHPkDbL1Ogc3AQJvi9HC1Egyn?usp=sharing)
 
 
 ### Semantic Segmentation

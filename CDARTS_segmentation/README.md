@@ -9,7 +9,7 @@ This repository has been tested on RTX 3090. Configurations (e.g batch size, ima
 ## Installation
 * Clone this repo:
 ```bash
-cd CyDAS_segmentation
+cd CDARTS_segmentation
 ```
 * Install dependencies:
 ```bash
@@ -42,7 +42,7 @@ cd train
 ```
 * Download the pretrained weights of the from [Google Drive](https://drive.google.com/drive/folders/1CkFp24bEDq0wUp504BQ68jn5Vs069qox?usp=sharing).
 * Set `config.model_path = $YOUR_MODEL_PATH` in `cydas.yaml`.
-* Set `config.json_file = $CYDAS_MODEL` in `cydas.yaml`.
+* Set `config.json_file = $CDARTS_MODEL` in `cydas.yaml`.
 * Start the evaluation process:
 ```bash
 CUDA_VISIBLE_DEVICES=0 python test.py
